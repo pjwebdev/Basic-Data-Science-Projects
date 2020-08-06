@@ -6,14 +6,19 @@ We open-source our code in order to make a collaborative book project. 10 projec
 We plan the following chapters in the book:
 
 Your Data Science setup
-    Anaconda
+
+Anaconda
     (installation, updating anaconda, installing new libraries)
+
 Virtualenv
     (why you need it, creating new environments)
+
 Jupyter Notebook
     (starting, popular shortcuts)
+
 GitHub
     (creating an account, basic commands)
+
 Google Colab
     (data science in the cloud, basic usage)
 
