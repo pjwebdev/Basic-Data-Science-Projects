@@ -1,7 +1,11 @@
 # Basic Data Science Projects - Collaborative Book Project
 ### authors: Przemek Chojecki, Przemek Jarzynski
 
-We are writing a collaborative data science book with an open-source so that anyone can join and help us! 10 projects, 10 chapters, 1 book. If you want to be mentioned in the book and receive a free copy of the final ebook, please help us make the code better. 
+We are writing a collaborative data science book with an open-source so that anyone can join and help us! 
+
+10 projects, 10 chapters, 1 book with a goal to make it easy for anyone to start with data science by focusing on practical side of it. 
+
+If you want to be mentioned in the book and receive a free copy of the final ebook, please help us make the code better. 
 
 
 
